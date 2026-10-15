@@ -1,0 +1,2 @@
+Basin,Basin_Source,DEM_Resolution_m,Outlet_Lat,Outlet_Lon,Area_km2,Perimeter_km,Elev_Min_m,Elev_Max_m,Elev_Mean_m,Slope_Mean_deg,Main_River_Length_km,Stream_Length_km,Drainage_Density_km_per_km2,Max_Strahler_Order,Circularity_Ratio
+Ba River Basin,hydrobasins,90,13.06648,109.30018,13176.4,779.5,0.0,1984.0,484.0,8.1,366.0,2507.3,0.19,5,0.273
